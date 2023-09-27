@@ -8,6 +8,7 @@ class StudentCrudOperationApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
